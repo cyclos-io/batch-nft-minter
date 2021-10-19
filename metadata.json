@@ -1,34 +1,14 @@
 {
     "id": "1",
-    "name": "Paladin Panda#1",
-    "image": "https://product.ohdat.io/paladin_pandas/product/source/11146.png",
+    "name": "Cyclos Golden Ticket",
+    "image": "https://raw.githubusercontent.com/cyclos-io/batch-nft-minter/master/ticket.jpeg",
     "animation_url": "",
-    "external_url": "https://www.paladinpandas.com/",
-    "description": "A PaladinPanda",
+    "external_url": "https://www.cyclos.io/",
+    "description": "Access ticket for the Cyclos private launch",
     "attributes": [
         {
-            "trait_type": "Background",
-            "value": "Color14"
-        },
-        {
-            "trait_type": "Fur",
-            "value": "Panda"
-        },
-        {
-            "trait_type": "Expression",
-            "value": "Eyes"
-        },
-        {
-            "trait_type": "Headgear",
-            "value": "Cyber Saint"
-        },
-        {
-            "trait_type": "Weapon",
-            "value": "Hoverboard"
-        },
-        {
-            "trait_type": "Class",
-            "value": "Engineer"
+            "trait_type": "Tier",
+            "value": "Legendary"
         }
     ],
     "background_color": "FFFFFF"

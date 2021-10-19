@@ -54,9 +54,9 @@ async function main() {
     share: 100,
   })
   const metadata = new Data({
-    name: 'Cyclos Tickets',
-    symbol: 'CYST',
-    uri: 'https://item.ohdat.io/paladin_panda/1',
+    name: 'Cyclos Golden Ticket',
+    symbol: 'CYSGT',
+    uri: 'https://raw.githubusercontent.com/cyclos-io/batch-nft-minter/master/metadata.json',
     sellerFeeBasisPoints: 0,
     creators: [creator],
   })
