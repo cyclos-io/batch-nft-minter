@@ -2,7 +2,7 @@
     "id": "1",
     "name": "Cyclos Golden Ticket",
     "image": "https://raw.githubusercontent.com/cyclos-io/batch-nft-minter/master/Cyclos%20Golden%20Ticket.jpg",
-    "animation_url": "https://github.com/cyclos-io/batch-nft-minter/blob/master/Cyclos%20Mainnet%20Ticket.mp4?raw=true",
+    "animation_url": "https://github.com/cyclos-io/batch-nft-minter/blob/master/Cyclos%20Mainnet%20Ticket.mp4?raw=true&ext=mp4",
     "external_url": "https://www.cyclos.io/",
     "description": "Access ticket for the Cyclos private launch",
     "attributes": [
@@ -11,5 +11,21 @@
             "value": "Legendary"
         }
     ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/cyclos-io/batch-nft-minter/master/Cyclos%20Golden%20Ticket.jpg",
+                "type": "image/jpg"
+            },
+            {
+                "uri": "https://raw.githubusercontent.com/cyclos-io/batch-nft-minter/master/Cyclos%20Golden%20Ticket.gif",
+                "type": "image/gif"
+            },
+            {
+                "uri": "https://github.com/cyclos-io/batch-nft-minter/blob/master/Cyclos%20Mainnet%20Ticket.mp4?raw=true&ext=mp4",
+                "type": "video/mp4"
+            }
+        ]
+    },
     "background_color": "FFFFFF"
 }
